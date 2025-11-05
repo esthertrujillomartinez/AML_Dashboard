@@ -12,4 +12,4 @@ data/
 
 # Archivos temporales de VSCode
 .vscode/
-*.log v
+*.log 
