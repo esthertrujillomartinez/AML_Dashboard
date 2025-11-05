@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+.antenv/
+__pycache__/
+*.pyc
+
+# Datos y configuraciones locales
+.env
+data/
+*.xlsx
+*.csv
+
+# Archivos temporales de VSCode
+.vscode/
+*.log
